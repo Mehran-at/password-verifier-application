@@ -3,7 +3,7 @@ package passwordverifier;
 public class PasswordVerifierApplication {
     public static void main(String[] args) {
         PasswordVerifier passwordVerifier = new PasswordVerifier();
-        String password = "l";
-        System.out.println(passwordVerifier.verify(password));
+        GetPassword getPassword = new GetPassword();
+        System.out.println(passwordVerifier.verify(getPassword.getPassword()));
     }
 }
