@@ -1,8 +1,11 @@
 package passwordverifier;
 
 
-public class PasswordHasDigit {
-    protected Boolean hasDigit(String password) {
+public class PasswordHasDigit implements Verfication {
+
+    //  password must have at least one lowercase
+    @Override
+    public Boolean verify(String password) {
         Boolean hasDigit = false;
 
         for (int element = 0; element < password.length(); element++) {
@@ -14,4 +17,6 @@ public class PasswordHasDigit {
         }
         return hasDigit;
     }
+
+
 }

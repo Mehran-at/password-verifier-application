@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e4ac9f-5e2f-4c2e-89fb-4f9f99478452" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/passwordverifier/Verfication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../calculator-magnet-application/out/production/calculator-magnet-application/CalculatorMagnetApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator-magnet-application/out/production/calculator-magnet-application/CalculatorMagnetApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../calculator-magnet-application/out/production/calculator-magnet-application/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator-magnet-application/out/production/calculator-magnet-application/Manager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../calculator-magnet-application/out/production/calculator-magnet-application/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator-magnet-application/out/production/calculator-magnet-application/Square.class" afterDir="false" />
@@ -13,6 +14,35 @@
       <change beforePath="$PROJECT_DIR$/../fizzbuzz-application/src/FizzBuzzApplication.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fizzbuzz-application/src/FizzBuzzFinder.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/CSS.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/CheckConditions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/CheckConditions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/FrondEnd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/JavaScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordHasDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordHasDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordHasDigitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordHasDigitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordHasLowercase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordHasLowercase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordHasLowercaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordHasLowercaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordHasUppercase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordHasUppercase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordHasUppercaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordHasUppercaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordNull.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordNull.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordVerifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordVerifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordVerifierApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordVerifierApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordVerifierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/PasswordVerifierTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/password-verifier-application/passwordverifier/What.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/CheckConditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passwordverifier/CheckConditions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/PasswordHasDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passwordverifier/PasswordHasDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/PasswordHasDigitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passwordverifier/PasswordHasDigitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/PasswordHasLowercase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passwordverifier/PasswordHasLowercase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/PasswordHasLowercaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passwordverifier/PasswordHasLowercaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/PasswordHasUppercase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passwordverifier/PasswordHasUppercase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/PasswordHasUppercaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passwordverifier/PasswordHasUppercaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/PasswordLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passwordverifier/PasswordLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/PasswordNull.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passwordverifier/PasswordNull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/PasswordVerifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passwordverifier/PasswordVerifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/PasswordVerifierApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passwordverifier/PasswordVerifierApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/PasswordVerifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/passwordverifier/PasswordVerifierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/passwordverifier/What.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,41 +53,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/passwordverifier/What.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="58" lean-forward="true" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/passwordverifier/CheckConditions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/passwordverifier/GetPassword.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordHasDigit.java">
+        <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordVerifierApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -68,11 +68,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -82,30 +82,32 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordLength.java" />
-        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordNull.java" />
-        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordVerifierTest.java" />
-        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordHasLowercase.java" />
-        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordHasUppercase.java" />
         <option value="$PROJECT_DIR$/src/passwordverifier/AA.java" />
         <option value="$PROJECT_DIR$/src/passwordverifier/CSS.css" />
         <option value="$PROJECT_DIR$/src/passwordverifier/JavaScript.js" />
-        <option value="$PROJECT_DIR$/src/passwordverifier/What.java" />
-        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordVerifier.java" />
         <option value="$PROJECT_DIR$/src/passwordverifier/CheckConditionsTest.java" />
         <option value="$PROJECT_DIR$/src/passwordverifier/PasswordHasDigitTest.java" />
         <option value="$PROJECT_DIR$/src/passwordverifier/PasswordHasLowercaseTest.java" />
         <option value="$PROJECT_DIR$/src/passwordverifier/PasswordHasUppercaseTest.java" />
-        <option value="$PROJECT_DIR$/src/passwordverifier/GetPassword.java" />
         <option value="$PROJECT_DIR$/src/passwordverifier/FrondEnd.html" />
-        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordVerifierApplication.java" />
         <option value="$PROJECT_DIR$/src/passwordverifier/Data.java" />
-        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordHasDigit.java" />
         <option value="$PROJECT_DIR$/src/passwordverifier/CheckConditions.java" />
+        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordHasLowercase.java" />
+        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordHasDigit.java" />
+        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordHasUppercase.java" />
+        <option value="$PROJECT_DIR$/src/passwordverifier/GetPassword.java" />
+        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordNull.java" />
+        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordVerifier.java" />
+        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordLength.java" />
+        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordVerifierTest.java" />
+        <option value="$PROJECT_DIR$/src/passwordverifier/What.java" />
+        <option value="$PROJECT_DIR$/src/passwordverifier/Verfication.java" />
+        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordNullTest.java" />
+        <option value="$PROJECT_DIR$/src/passwordverifier/PasswordVerifierApplication.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="27" />
     <option name="width" value="776" />
     <option name="height" value="741" />
@@ -142,35 +144,7 @@
               <item name="password-verifier-application" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="passwordverifier" type="462c0819:PsiDirectoryNode" />
-              <item name="CheckConditions" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="password-verifier-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="password-verifier-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="passwordverifier" type="462c0819:PsiDirectoryNode" />
-              <item name="GetPassword" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="password-verifier-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="password-verifier-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="passwordverifier" type="462c0819:PsiDirectoryNode" />
-              <item name="PasswordHasDigit" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="password-verifier-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="password-verifier-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="passwordverifier" type="462c0819:PsiDirectoryNode" />
               <item name="PasswordVerifierApplication" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="password-verifier-application" type="b2602c69:ProjectViewProjectNode" />
-              <item name="password-verifier-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="passwordverifier" type="462c0819:PsiDirectoryNode" />
-              <item name="What" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -188,7 +162,7 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554903836094" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554908700381" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -220,21 +194,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PasswordVerifierApplication">
-    <configuration name="PasswordVerifierApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="passwordverifier.PasswordVerifierApplication" />
-      <module name="password-verifier-application" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="passwordverifier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckConditionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PasswordNullTest.verifyOne">
+    <configuration name="PasswordNullTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="password-verifier-application" />
       <extension name="coverage">
         <pattern>
@@ -243,13 +204,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="passwordverifier" />
-      <option name="MAIN_CLASS_NAME" value="passwordverifier.CheckConditionsTest" />
+      <option name="MAIN_CLASS_NAME" value="passwordverifier.PasswordNullTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckConditionsTest.checkBooleansConditions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PasswordNullTest.verify (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="password-verifier-application" />
       <extension name="coverage">
         <pattern>
@@ -258,14 +219,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="passwordverifier" />
-      <option name="MAIN_CLASS_NAME" value="passwordverifier.CheckConditionsTest" />
-      <option name="METHOD_NAME" value="checkBooleansConditions(java.lang.Boolean,java.lang.Boolean,java.lang.Boolean,java.lang.Boolean,java.lang.Boolean,java.lang.Boolean)" />
+      <option name="MAIN_CLASS_NAME" value="passwordverifier.PasswordNullTest" />
+      <option name="METHOD_NAME" value="verify" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckConditionsTest.checkConditions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PasswordNullTest.verify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="password-verifier-application" />
       <extension name="coverage">
         <pattern>
@@ -274,23 +235,52 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="passwordverifier" />
-      <option name="MAIN_CLASS_NAME" value="passwordverifier.CheckConditionsTest" />
-      <option name="METHOD_NAME" value="checkConditions(java.lang.Boolean,java.lang.Boolean,java.lang.Boolean,java.lang.Boolean,java.lang.Boolean)" />
+      <option name="MAIN_CLASS_NAME" value="passwordverifier.PasswordNullTest" />
+      <option name="METHOD_NAME" value="verify(java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrondEnd.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/password-verifier-application/passwordverifier/FrondEnd.html" useBuiltInWebServerPort="true">
-      <method v="2" />
+    <configuration name="PasswordNullTest.verify1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="password-verifier-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passwordverifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passwordverifier" />
+      <option name="MAIN_CLASS_NAME" value="passwordverifier.PasswordNullTest" />
+      <option name="METHOD_NAME" value="verify1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordNullTest.verifyOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="password-verifier-application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passwordverifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passwordverifier" />
+      <option name="MAIN_CLASS_NAME" value="passwordverifier.PasswordNullTest" />
+      <option name="METHOD_NAME" value="verifyOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PasswordVerifierApplication" />
-        <item itemvalue="JavaScript Debug.FrondEnd.html" />
-        <item itemvalue="JUnit.CheckConditionsTest" />
-        <item itemvalue="JUnit.CheckConditionsTest.checkBooleansConditions" />
-        <item itemvalue="JUnit.CheckConditionsTest.checkConditions" />
+        <item itemvalue="JUnit.PasswordNullTest.verifyOne" />
+        <item itemvalue="JUnit.PasswordNullTest.verify1" />
+        <item itemvalue="JUnit.PasswordNullTest" />
+        <item itemvalue="JUnit.PasswordNullTest.verify (1)" />
+        <item itemvalue="JUnit.PasswordNullTest.verify" />
       </list>
     </recent_temporary>
   </component>
@@ -306,50 +296,49 @@
       <updated>1554820656629</updated>
       <workItem from="1554820658073" duration="20475000" />
       <workItem from="1554842986645" duration="5049000" />
-      <workItem from="1554900910195" duration="2820000" />
+      <workItem from="1554900910195" duration="7873000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckConditionsTest - 2019.04.09 at 16h 27m 42s.xml">
-      <configuration name="CheckConditionsTest" configurationId="JUnit" />
+    <history-entry file="PasswordVerifierTest - 2019.04.10 at 10h 27m 36s.xml">
+      <configuration name="PasswordVerifierTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConditionsTest - 2019.04.09 at 16h 29m 21s.xml">
-      <configuration name="CheckConditionsTest" configurationId="JUnit" />
+    <history-entry file="PasswordNullTest_checkBooleansConditions - 2019.04.10 at 10h 38m 17s.xml">
+      <configuration name="PasswordNullTest.checkBooleansConditions" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConditionsTest - 2019.04.09 at 16h 30m 05s.xml">
-      <configuration name="CheckConditionsTest" configurationId="JUnit" />
+    <history-entry file="PasswordNullTest - 2019.04.10 at 10h 39m 33s.xml">
+      <configuration name="PasswordNullTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConditionsTest - 2019.04.09 at 16h 31m 17s.xml">
-      <configuration name="CheckConditionsTest" configurationId="JUnit" />
+    <history-entry file="PasswordNullTest - 2019.04.10 at 10h 41m 06s.xml">
+      <configuration name="PasswordNullTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConditionsTest - 2019.04.09 at 16h 31m 40s.xml">
-      <configuration name="CheckConditionsTest" configurationId="JUnit" />
+    <history-entry file="PasswordNullTest_verify - 2019.04.10 at 10h 50m 10s.xml">
+      <configuration name="PasswordNullTest.verify" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConditionsTest - 2019.04.09 at 16h 35m 47s.xml">
-      <configuration name="CheckConditionsTest" configurationId="JUnit" />
+    <history-entry file="PasswordNullTest_verify_(1) - 2019.04.10 at 10h 51m 15s.xml">
+      <configuration name="PasswordNullTest.verify (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConditionsTest - 2019.04.09 at 16h 36m 49s.xml">
-      <configuration name="CheckConditionsTest" configurationId="JUnit" />
+    <history-entry file="PasswordNullTest - 2019.04.10 at 10h 57m 01s.xml">
+      <configuration name="PasswordNullTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConditionsTest - 2019.04.09 at 16h 37m 20s.xml">
-      <configuration name="CheckConditionsTest" configurationId="JUnit" />
+    <history-entry file="PasswordNullTest_verify1 - 2019.04.10 at 10h 58m 19s.xml">
+      <configuration name="PasswordNullTest.verify1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConditionsTest - 2019.04.09 at 16h 37m 34s.xml">
-      <configuration name="CheckConditionsTest" configurationId="JUnit" />
+    <history-entry file="PasswordNullTest_verifyOne - 2019.04.10 at 10h 58m 38s.xml">
+      <configuration name="PasswordNullTest.verifyOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckConditionsTest - 2019.04.09 at 16h 55m 11s.xml">
-      <configuration name="CheckConditionsTest" configurationId="JUnit" />
+    <history-entry file="PasswordNullTest_verifyOne - 2019.04.10 at 10h 58m 50s.xml">
+      <configuration name="PasswordNullTest.verifyOne" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28344000" />
+    <option name="totallyTimeSpent" value="33397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24546827" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27492446" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -357,8 +346,8 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21963394" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294509" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24792013" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -380,6 +369,38 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33383685" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24792013" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3294509" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -390,9 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -400,87 +418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="56" column="101" selection-start-line="56" selection-start-column="101" selection-end-line="56" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/CheckConditionsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="5" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordHasDigitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="9" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordHasLowercase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="27" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordHasLowercaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="50" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordHasUppercase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordHasUppercaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="14" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordNull.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordVerifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordVerifierTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="6" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -504,41 +441,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordVerifierApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/GetPassword.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/What.java">
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/CheckConditionsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="58" lean-forward="true" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+        <state relative-caret-position="210">
+          <caret line="16" column="5" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/passwordverifier/CheckConditions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        <state relative-caret-position="225">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/passwordverifier/GetPassword.java">
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="47" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordHasUppercase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="45" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordHasLowercaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordHasDigitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordHasUppercaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordNull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/Verfication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordHasLowercase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordVerifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordNullTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordHasDigit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/passwordverifier/PasswordVerifierApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>

@@ -3,9 +3,8 @@ package passwordverifier;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CheckConditions implements What {
+public class CheckConditions {
 
-    @Override
     public Boolean checkBooleansConditions(Boolean notNull, Boolean length, Boolean oneDigit, Boolean hasLowercase, Boolean hasUppercase) {
         List<Boolean> booleanList = new ArrayList<Boolean>();
         booleanList.add(notNull.booleanValue());

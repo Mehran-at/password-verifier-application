@@ -14,7 +14,7 @@ class PasswordHasLowercaseTest {
             "WSFSDFSF, false"
     })
     void hasLowercase(String password, Boolean expected) {
-        Boolean actual = passwordHasLowercase.hasLowercase(password);
+        Boolean actual = passwordHasLowercase.verify(password);
         Assertions.assertEquals(expected, actual);
     }
 }

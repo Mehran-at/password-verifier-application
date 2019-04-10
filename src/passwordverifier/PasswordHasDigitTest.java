@@ -15,7 +15,7 @@ class PasswordHasDigitTest {
             "asda23, true   "
     })
     void hasDigit(String password, Boolean expected) {
-        Boolean actual = passwordHasDigit.hasDigit(password);
+        Boolean actual = passwordHasDigit.verify(password);
         Assertions.assertEquals(expected, actual);
     }
 }

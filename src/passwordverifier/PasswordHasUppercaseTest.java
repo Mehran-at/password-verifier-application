@@ -14,7 +14,7 @@ class PasswordHasUppercaseTest {
             "ASDAFSDADS, true"
     })
     void hasUppercase(String password, Boolean expected) {
-        Boolean actual = passwordHasUppercase.hasUppercase(password);
+        Boolean actual = passwordHasUppercase.verify(password);
         Assertions.assertEquals(expected, actual);
     }
 }

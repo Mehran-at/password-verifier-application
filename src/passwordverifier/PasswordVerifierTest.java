@@ -22,12 +22,4 @@ class PasswordVerifierTest {
         Assertions.assertEquals(expected, actual);
     }
 
-    @Test
-    void verifyWithNull() {
-        String password = null;
-        PasswordVerifier passwordVerifier = new PasswordVerifier();
-        Boolean actual = passwordVerifier.verify(password);
-        Boolean expected = false;
-        Assertions.assertEquals(expected, actual);
-    }
 }

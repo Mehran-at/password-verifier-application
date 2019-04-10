@@ -10,9 +10,12 @@ public class PasswordVerifier {
     CheckConditions checkConditions = new CheckConditions();
 
     Boolean verify(String password) {
-        return passwordHasLowercase.hasLowercase(password) && checkConditions.checkBooleansConditions(passwordNull.checkNull(password), passwordLength.checkLength(password),
-                passwordHasDigit.hasDigit(password), passwordHasLowercase.hasLowercase(password),
-                passwordHasUppercase.hasUppercase(password));
+        return passwordHasLowercase.verify(password) &&
+                checkConditions.checkBooleansConditions(passwordNull.verify(password),
+                        passwordLength.verify(password),
+                        passwordHasDigit.verify(password),
+                        passwordHasLowercase.verify(password),
+                        passwordHasUppercase.verify(password));
     }
 
 
